@@ -1,0 +1,1 @@
+Arduino Code für die Steuerung des Demonstators im Projekt industrieller Mini-Reinigungsprozess
